@@ -1,3 +1,5 @@
+<img width="971" height="497" alt="image" src="https://github.com/user-attachments/assets/d1fbd403-63da-487c-80bd-af8d2f29bc3a" />
+
 # EasyCrosshair_V1.1
 I made this Crosshair tool, because I didn't want to pay 5$ on the steam market for Crosshair X. The purpose of the tool is to project a simple cross, circle or a + in the midde of the screen. It will be displayed as the most top Layer. Usefull for Games you get a little advantage.  
 
